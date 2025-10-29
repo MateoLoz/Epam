@@ -21,8 +21,6 @@
 [chrome 141.0.7390.123 windows #0-0]
 [chrome 141.0.7390.123 windows #0-0] 3 passing (12.2s)
 
----
-
 [firefox 146.0a1 windows #1-0] Running: firefox (v146.0a1) on windows
 [firefox 146.0a1 windows #1-0] Session ID: d0fbc3e3-85e7-4bf3-a9fa-942593fac00a
 [firefox 146.0a1 windows #1-0]
@@ -36,6 +34,8 @@
 
 Spec Files: 2 passed, 2 total (100% completed) in 00:00:20
 
-## `
+`
+
+---
 
 ## @Mateo Lozano 2025 for Epam
