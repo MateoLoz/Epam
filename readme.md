@@ -1,18 +1,14 @@
 # Final Task Epam
 
----
-
 ## How to execute
 
 - Open terminal `ctrl + j`
 - `npm install`
 - `npm run wdio`
 
----
-
 ## Expected output
 
-`
+```
 [chrome 141.0.7390.123 windows #0-0] » src\specs\login.spec.js
 [chrome 141.0.7390.123 windows #0-0] Login Feature
 [chrome 141.0.7390.123 windows #0-0] ✓ should see an error message without valid credentials
@@ -34,8 +30,6 @@
 
 Spec Files: 2 passed, 2 total (100% completed) in 00:00:20
 
-`
-
----
+```
 
 ## @Mateo Lozano 2025 for Epam
